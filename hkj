@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Camdenn Couture</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Productos</a></li>
+          <li><a href="#">Acerca de</a></li>
+          <li><a href="#">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1>Camdenn Couture</h1>
+      <p>¡Bienvenido a nuestra tienda en línea!</p>
+      <button>Explorar</button>
+    </main>
+    <footer>
+      <p>Derechos reservados Camdenn Couture 2023</p>
+    </footer>
+  </body>
+</html>
